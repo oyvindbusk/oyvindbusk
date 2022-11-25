@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @oyvindbusk
+- 👀 I’m interested in data science and machine learning and learning new programming languages (and almost everything else)
+- 👀 My preferred tools are Python, R, Nim, Groovy and javascript
+- 🌱 I’m currently working in the norwegian tax administration after working as a bioinformatics data scientist for 10+ years
+- 📫 Reach me @ oyvindbusk@gmail.com
